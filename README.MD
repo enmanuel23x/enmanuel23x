@@ -60,25 +60,25 @@ Currently building intelligent agents and core systems at **Entropy**.
 ## Professional Experience
 
 ### Fullstack Developer (AI & Core Systems) | Entropy
-*April 2024 - Present | Barcelona, Spain (Remote)*
+
+_April 2024 - Present | Barcelona, Spain (Remote)_
+
 - **AI Agent Systems:** Architected and deployed reliable, production-ready AI agents and internal operational tools, accelerating team efficiency.
 - **Core Engineering:** Integrated low-latency backend microservices with responsive web dashboards, improving system-wide traceability and scaling capabilities.
 
 ### Fullstack Developer (Semi Senior) | Interfell - ePayco
-*June 2021 - April 2024 | Remote*
+
+_June 2021 - April 2024 | Remote_
+
 - **Fintech Microservices:** Scaled and maintained high-throughput transactional payment systems and payment processing engines.
 - **Mobile SDKs:** Designed and optimized React Native modules for payment SDKs, maintaining robust security and cross-platform reliability.
 - **Quality Pipelines:** Standardized automated code-quality pipelines and containerized (Docker) reproducible environments to streamline deployments.
 
 ### Systems Analyst and Fullstack Developer | Intelix Synergy, C.A.
-*March 2020 - June 2021 | Valencia, Venezuela*
+
+_March 2020 - June 2021 | Valencia, Venezuela_
+
 - **Fullstack Development:** Designed and developed enterprise solutions for digital transformation initiatives, building backend services with Node.js and scalable frontend applications with React and Angular.
 - **Modular Architecture:** Implemented modular software architectures to improve maintainability and scalability across internal business platforms.
 - **Project Operations:** Supported technical planning, delivery tracking, and produced structured technical documentation to ensure smooth project continuity.
 - **Server Deployment:** Configured, operated, and deployed application servers on Linux environments using NGINX reverse proxies.
-
----
-
-<div align="center">
-  <sub>Designed by Enmanuel Leon — © 2026</sub>
-</div>

@@ -60,25 +60,25 @@ Actualmente construyendo agentes inteligentes y sistemas transaccionales core en
 ## Experiencia Profesional
 
 ### Fullstack Developer (AI & Core Systems) | Entropy
-*Abril 2024 - Presente | Barcelona, España (Remoto)*
+
+_Abril 2024 - Presente | Barcelona, España (Remoto)_
+
 - **Sistemas de Agentes de IA:** Diseñé e implementé agentes de IA en producción y herramientas operativas internas, acelerando drásticamente la eficiencia operativa del equipo.
 - **Ingeniería Core:** Integré microservicios backend de baja latencia con paneles web responsivos, mejorando la trazabilidad y la escalabilidad de todo el sistema.
 
 ### Fullstack Developer (Semi Senior) | Interfell - ePayco
-*Junio 2021 - Abril 2024 | Remoto*
+
+_Junio 2021 - Abril 2024 | Remoto_
+
 - **Microservicios Fintech:** Escalé y mantuve sistemas de pago transaccionales de alto volumen y motores de procesamiento de pagos.
 - **SDKs Móviles:** Diseñé y optimicé módulos de React Native para SDKs de pago móvil, manteniendo una robusta seguridad y compatibilidad multiplataforma.
 - **Pipelines de Calidad:** Estandaricé pipelines automatizados de calidad de código y entornos reproducibles con Docker.
 
 ### Analista de Sistemas y Desarrollador Fullstack | Intelix Synergy, C.A.
-*Marzo 2020 - Junio 2021 | Valencia, Venezuela*
+
+_Marzo 2020 - Junio 2021 | Valencia, Venezuela_
+
 - **Desarrollo Fullstack:** Diseñé y desarrollé soluciones empresariales para iniciativas de transformación digital, implementando servicios backend con Node.js y aplicaciones frontend escalables con React y Angular.
 - **Arquitectura Modular:** Implementé arquitecturas de software modulares para mejorar la mantenibilidad y escalabilidad de las plataformas de negocio internas.
 - **Operaciones de Proyecto:** Apoyé la planificación técnica, el seguimiento de entregas y elaboré documentación técnica estructurada para asegurar la continuidad del proyecto.
 - **Despliegue de Servidores:** Configuré, operé y desplegué servidores de aplicaciones en entornos Linux utilizando NGINX como proxy inverso.
-
----
-
-<div align="center">
-  <sub>Diseñado por Enmanuel Leon — © 2026</sub>
-</div>
